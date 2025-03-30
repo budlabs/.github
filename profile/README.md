@@ -1,2 +1,2 @@
-## Hello everybody 🇸🇪
+## Hello everybody! 🇸🇪
 ### Welcome to **budlabs**
